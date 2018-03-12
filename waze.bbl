@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{wang2014driver}
+C.~Wang, J.~Gu, J.~Terken, and J.~Hu, ``Driver-to-driver communication on the
+  highway: what drivers want,'' in {\em European Conference on Ambient
+  Intelligence}, pp.~315--327, Springer, 2014.
+
+\bibitem{wazeMobile}
+Waze, ``About waze, \emph{https://www.waze.com/about},'' 2018.
+
+\bibitem{sinai2014exploiting}
+M.~B. Sinai, N.~Partush, S.~Yadid, and E.~Yahav, ``Exploiting social
+  navigation,'' {\em arXiv preprint arXiv:1410.0151}, 2014.
+
+\bibitem{silva2013traffic}
+T.~H. Silva, P.~O.~V. de~Melo, A.~C. Viana, J.~M. Almeida, J.~Salles, and A.~A.
+  Loureiro, ``Traffic condition is more than colored lines on a map:
+  characterization of waze alerts,'' in {\em International Conference on Social
+  Informatics}, pp.~309--318, Springer, 2013.
+
+\bibitem{mcclendon2013google}
+B.~McClendon, ``Google maps and waze, outsmarting traffic together,'' {\em
+  Google| Official Blog}, 2013.
+
+\bibitem{wazeBlog}
+Waze, ``Blog, \emph{https://blog.waze.com/},'' 2018.
+
+\bibitem{hardawar2012driving}
+D.~Hardawar, ``Driving app waze builds its own siri for hands-free voice
+  control,'' 2012.
+
+\end{thebibliography}
